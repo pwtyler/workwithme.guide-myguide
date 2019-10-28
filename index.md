@@ -19,6 +19,7 @@ picture: ./loaf.jpg
 ## Receiving Feedback & Recognition
 
 Positive feedback: Calls/slack conversation is great! Props in meetings/orientation are always good.
+
 Negative feedback: 1:1 call or Slack will be the most comfortable.
 
 ## Work Patterns
