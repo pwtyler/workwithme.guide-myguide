@@ -65,6 +65,6 @@ I'm not great at initiating/maintaining conversation with people I've just met o
 
 * Travel. I love an adventurous vacation.
 * My pup, Layla
-* Abstract strategy games that are _not_ chess
+* Abstract strategy games that are _not_ chess. Have you heard the good news of [Tak](https://playtak.com)?
 * Dungeons and/or Dragons. I tell people all the creative energy of my BFA in theatre production is now poured into playing and running RPGs.
 * Soviet constructivism in theatrical design
