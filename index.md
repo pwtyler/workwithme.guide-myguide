@@ -13,7 +13,7 @@ picture: ./loaf.jpg
 
 - Never stop **learning**. We've always said my grandmother has stayed independent and healthy because she's always been willing to keep learning. We should all aspire to be like Merrie, calling an Uber on her iPhone to go to the gym by herself at 93.
 - I consistently try to find the **creativity** and **artistry** in what I do as well. [Code is Poetry](https://wordpress.org/), &c.
-- You won't get very far without being *honest* with your peers open about what you know and don't know. If others don't know you need help, they won't be able to help you.
+- You won't get very far without being **honest** with your peers open about what you know and don't know. If others don't know you need help, they won't be able to help you.
 - I am **methodical** and strive to "do it right the first time".
 
 ## Receiving Feedback & Recognition
@@ -48,6 +48,8 @@ If I feel out of my element I tend to quiet down, and while actively listening, 
 ### How to help
 
 If I seem like I've fallen down a rabbit hole or lost the forest for the trees, feel free to remind me to take a step back and engage with the bigger picture. Engage with specific questions about the problem/issue we're trying to solve.
+
+I can get bogged down in making something "just right", so at any time, remind me that [_Perfect is the Enemy of Good_](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good).
 
 ## Me Being Me
 
