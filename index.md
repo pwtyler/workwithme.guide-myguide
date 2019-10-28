@@ -11,10 +11,10 @@ picture: ./loaf.jpg
 ---
 ## Values & Personality
 
-- Never stop *learning*. We've always said my grandmother has stayed independent and healthy because she's always been willing to keep learning. We should all aspire to be like Merrie, calling an Uber on her iPhone to go to the gym by herself at 93.
-- I consistently try to find the *creativity* and *artistry* in what I do as well. [Code is Poetry](https://wordpress.org/), &c.
+- Never stop **learning**. We've always said my grandmother has stayed independent and healthy because she's always been willing to keep learning. We should all aspire to be like Merrie, calling an Uber on her iPhone to go to the gym by herself at 93.
+- I consistently try to find the **creativity** and **artistry** in what I do as well. [Code is Poetry](https://wordpress.org/), &c.
 - You won't get very far without being *honest* with your peers open about what you know and don't know. If others don't know you need help, they won't be able to help you.
-- I am *methodical* and take the approach of "doing it right the first time".
+- I am **methodical** and strive to "do it right the first time".
 
 ## Receiving Feedback & Recognition
 
