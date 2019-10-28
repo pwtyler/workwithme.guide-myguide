@@ -1,95 +1,68 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Phil Tyler
+full_name: Phil Tyler
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
-# To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+# github_url: https://github.com/pwtyler/workwithme.guide-myguide/
+picture: ./loaf.jpg
 # To add your name to the front page list, uncomment below
 # categories: [profile]
 ---
+## Values & Personality
 
-_Two important points about your Work With Me document:_
-
-1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
-
-_You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
-
-## Values
-
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
-
-## Personality
-
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+- Never stop *learning*. We've always said my grandmother has stayed independent and healthy because she's always been willing to keep learning. We should all aspire to be like Merrie, calling an Uber on her iPhone to go to the gym by herself at 93.
+- I consistently try to find the *creativity* and *artistry* in what I do as well. [Code is Poetry](https://wordpress.org/), &c.
+- You won't get very far without being *honest* with your peers open about what you know and don't know. If others don't know you need help, they won't be able to help you.
+- I am *methodical* and take the approach of "doing it right the first time".
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
-
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+Positive feedback: Calls/slack conversation is great! Props in meetings/orientation are always good.
+Negative feedback: 1:1 call or Slack will be the most comfortable.
 
 ## Work Patterns
 
-What hours do you usually work?
+I work East Coast hours, So my end-of-day can sometimes throw a wrench into planning meetings with team members working on the West coast. I value the couple hours in the morning before meetings and messages start coming in from West coast peers, and find it can be some of my most productive time.
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+If booking time day-of, try to reach out directly before adding something to my calendar.
+
+At least once a day I take a quick break to run the dog around the block to recharge both of us.
+
+I like pair programming (especially when learning something new) and try to be quick to jump to post questions in slack if and when I hit a block— and about half the time I end up rubber ducking the answer in the process of writing out my question. 
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+Reaching out to me on Slack, either direct messages or channel pings, is best. I try to keep an eye on slack (even if just on my cell) for an extra couple hours at the end of the day to answer questions, but other times may as well be off-the-grid and not check in until the next day. My slack can get a bit noisy sometimes, so if I don't respond within a few minutes, don't feel shy about pinging again. 
 
+I'll ocasionnaly flip on Do Not Disturb during work hours for a chance at head-down, undisturbed time.
 
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
+On the rare occasions I _am_ working in the office, I don't mind interruptions as I value the limited face-to-face time we have, so feel free to reach out in person if you need something from me, or stick with slack if you prefer.
 
 ## How To Know I’ve Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+If I feel out of my element I tend to quiet down, and while actively listening, will not voice/contribute much.
 
 ### How to help
 
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
+If I seem like I've fallen down a rabbit hole or lost the forest for the trees, feel free to remind me to take a step back and engage with the bigger picture. Engage with specific questions about the problem/issue we're trying to solve.
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
-
-## Pet Peeves
-
-_I don't expect this list to change your actions—but it might help you better understand and empathize with my
-reactions._
-
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
-
-## Career Goals & Future Interests
-
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
+I'm not great at initiating/maintaining conversation with people I've just met or are getting to know, but continue to keep an effort at it. Don't be turned off by a struggle to keep the conversation going.
 
 ## Areas for Development
 
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
+* Fighting imposer syndrome and confidence in what I do/how I do it.
+* Upping my game networking and talking to people cold. I'll rarely seek out/initiate conversations with new people, but *want* to engage and get to know people at work, conferences, etc.
+* Presentation and public speaking. Even presenting to a small group on a call can be tough for me, no matter if its four people or 400.
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+* Travel. I love an adventurous vacation.
+* My pup, Layla
+* Abstract strategy games that are _not_ chess
+* Dungeons and/or Dragons. I tell people all the creative energy of my BFA in theatre production is now poured into playing and running RPGs.
+* Soviet constructivism in theatrical design
